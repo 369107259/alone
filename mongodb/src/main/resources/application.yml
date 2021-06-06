@@ -1,0 +1,8 @@
+server:
+  port: 1888
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://192.168.0.83:27017/mongodb
+

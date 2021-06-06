@@ -1,0 +1,6 @@
+server:
+  port: 8111
+
+zookeeper:
+  address: 127.0.0.1:2181
+  timeout: 4000
